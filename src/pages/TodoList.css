@@ -1,0 +1,12 @@
+.todo-list {
+  display: flex;
+  align-items: center;
+  margin: 10px;
+  gap: 20px;
+}
+.todo-list > li {
+  min-width: 80px;
+  list-style: none;
+}
+.todo-list > button {
+}
